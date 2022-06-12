@@ -6,17 +6,17 @@
          _______________
        * PYTHON FAMILY*
 
-      🔗lambda-Encryption🔗
+      🔗lamb-Encryption🔗
         _________________
         🔐PAID TOOL ONLY🔐 
 
-     lambda-Encryption CLONNING
+     lamb-Encryption CLONNING
      {😅DON'T TRY TO DECODE😅}
 
      🔗 Installation 🔗
         ____________
     cd
-    rm -rf lambda
+    rm -rf lamb
 
     $ pkg update
     $ pkg upgrade
@@ -28,12 +28,12 @@
     $ pip install rich
     $ pip install bs4
     $ pkg install git
-    $git clone https://github.com/Chigozieworldwide/lambda
-    $ cd lambda
-    $ python lambda.py
+    $git clone https://github.com/Chigozieworldwide/lamb
+    $ cd lamb
+    $ python lamb.py
 
 
 
 
 
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ;git clone https://github.com/Chigozieworldwide/lambda.,cd lambda .,python lambda.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ;git clone https://github.com/Chigozieworldwide/lamb.,cd lamb .,python lamb.py
